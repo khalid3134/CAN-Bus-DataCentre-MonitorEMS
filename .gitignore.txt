@@ -1,0 +1,18 @@
+# Arduino build files
+*.ino.cpp
+*.elf
+*.hex
+*.bin
+*.d
+*.dep
+*.o
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Other temp files
+*.log
